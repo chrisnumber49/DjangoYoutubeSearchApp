@@ -1,0 +1,1 @@
+web gunicorn DjangoYoutubeSearchApp.wsgi:application --log-file -
